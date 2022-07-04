@@ -1,4 +1,4 @@
 # israelgives
 Israel Gives Downloader
 
-How to use?
+## How to use?
