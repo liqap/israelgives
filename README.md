@@ -12,6 +12,7 @@ Israel Gives Downloader
 2. Unarchive it
 3. Run ## main.py with console
 4. Check the files into root directory [code]
+5. Open 'final.txt'
 
 
 
