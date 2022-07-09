@@ -9,7 +9,9 @@ Israel Gives Downloader
 Using terminal:
 
 pip3 install requests
+
 pip3 install zipfile
+
 pip3 install os
 pip3 install eel
 pip3 install selenium
