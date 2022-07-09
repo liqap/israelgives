@@ -7,6 +7,7 @@ Israel Gives Downloader
 2. Unarchive it
 
 Using terminal:
+
 pip3 install requests
 pip3 install zipfile
 pip3 install os
